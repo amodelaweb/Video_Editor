@@ -1,0 +1,7 @@
+numpy==1.14.3
+mutagen==1.40.0
+opencv_python==3.4.0.12
+moviepy==0.2.3.4
+sk_video==1.1.10
+Pillow==5.1.0
+PyQt5==5.10.1

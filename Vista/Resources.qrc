@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="Sound">
+    <file>Separator2_900_900-280x150.png</file>
+    <file>768px-speaker_icon-svg.png</file>
+  </qresource>
+  <qresource prefix="Logo">
+    <file>aadcc8240b106e6f0d4e041dfbd37df0_-unas-cabinet-page-3-vertical-page-divider-clipart_150-619.png</file>
+    <file>17837-200.png</file>
+    <file>7q9088_large.png</file>
+  </qresource>
+  <qresource prefix="Control">
+    <file>3843_-_center_focus-512.png</file>
+    <file>4023_-_focus_i-512.png</file>
+    <file>logo.png</file>
+    <file>arrow-move.png</file>
+    <file>gallery(1).png</file>
+    <file>media_player_icons-04-512.png</file>
+  </qresource>
+  <qresource prefix="Selector">
+    <file>save-as.png</file>
+    <file>add.png</file>
+    <file>delete.png</file>
+    <file>hand-touch2-512.png</file>
+  </qresource>
+  <qresource prefix="Reproductor">
+    <file>img_40910.png</file>
+    <file>pause_icon-icons-com_70902.png</file>
+    <file>play.png</file>
+  </qresource>
+</RCC>
