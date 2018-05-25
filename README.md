@@ -37,4 +37,4 @@ To get these libraries use: `pip3 install -r requirements.txt`
 
 
 ## License
-[GPL V3](https://www.gnu.org/licenses/gpl-3.0.html)
+[GPL V2](https://www.gnu.org/licenses/gpl-2.0.html)
